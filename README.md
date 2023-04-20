@@ -15,7 +15,7 @@ Before you start using Reels-AutoPoster, you need to set your configuration vari
 1. Clone the repository:
 
 ```
-git clone https://github.com/your_username/Reels-AutoPoster.git
+git clone https://github.com/avinashrathod0306/Instagram-Reels-Scraper-Auto-Poster.git
 ```
 
 2. Install the required dependencies:
