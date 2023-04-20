@@ -28,9 +28,9 @@ pip install -r requirements.txt
 
 In `config.py`, you need to set the following variables:
 
-- `INSTA_USERNAME`: Your Instagram username
-- `INSTA_PASSWORD`: Your Instagram password
-- `ACCOUNTS_TO_SCRAPE`: An array of Instagram accounts from which you want to scrape reels
+- `USERNAME`: Your Instagram username
+- `PASSWORD`: Your Instagram password
+- `ACCOUNTS`: An array of Instagram accounts from which you want to scrape reels
 - `FETCH_LIMIT`: The number of reels you want to fetch from each account
 - `HASHTAGS`: The hashtags you want to add while reposting the reels
 
